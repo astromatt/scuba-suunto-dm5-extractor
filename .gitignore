@@ -1,5 +1,6 @@
 ## Temporary
 _tmp/
+_temporary/
 */_tmp*.py
 _temporary.txt
 _temporary.*
